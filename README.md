@@ -30,11 +30,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/héctor-gil-95653a328"><img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/linkedin.png" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+444519544"><img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/whatsapp.png" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="hectorgil2003.hg@gmail.com"><img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/gmail.png" width="30px" alt="Gmail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/héctor-gil-95653a328">
+    <img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/linkedin.png" width="30px" alt="LinkedIn">
+  </a> &nbsp; &nbsp;
+  <a href="https://api.whatsapp.com/send?phone=52144519544">
+    <img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/whatsapp.png" width="30px" alt="WhatsApp">
+  </a> &nbsp; &nbsp;
+  <a href="mailto:hectorgil2003.hg@gmail.com">
+    <img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/gmail.png" width="30px" alt="Gmail">
+  </a> &nbsp; &nbsp;
 </p>
-
 
 ---
 
