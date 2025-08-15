@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/héctor-gil-95653a328">
     <img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/linkedin.png" width="30px" alt="LinkedIn">
   </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=52144519544">
+  <a href="https://api.whatsapp.com/send?phone=524444519544">
     <img src="https://github.com/HctrGZ/HctrGZ/blob/main/icons/whatsapp.png" width="30px" alt="WhatsApp">
   </a> &nbsp; &nbsp;
   <a href="mailto:hectorgil2003.hg@gmail.com">
