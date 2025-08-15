@@ -74,12 +74,11 @@
 <img alt="NuGet" src="https://img.shields.io/badge/NuGet-%230A0A0A.svg?&style=for-the-badge&logo=nuget&logoColor=white"/>
 <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 
-
-
-
 ---
 
 </p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### -I'm currently...
 
@@ -89,7 +88,7 @@
 - Finishing my Final Proyect of University in React
 - Improving my Git and Github skills.
 </samp>
----
+-------------------------------------------------------------------------
 
 ### -Interest...
 <samp>
@@ -100,6 +99,7 @@
 </samp>
 
 </details>
+<br><br><br><br><br>
 
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
