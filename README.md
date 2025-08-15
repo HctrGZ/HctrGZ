@@ -93,7 +93,7 @@
 - Finishing my Final Proyect of University in React
 - Improving my Git and Github skills.
 </samp>
--------------------------------------------------------------------------
+-------------------------------------------------------------
 
 ### - Interests...
 <samp>
