@@ -7,8 +7,8 @@
 <p align="center">
   <samp>
     I work as Web :globe_with_meridians: developer and Software Developer!<br>
-    🎓 Student of **Intelligent Systems Engineering** at **UASLP**.  <br>
-    💻 Currently working as an **Intern** at [CODGO](https://codgo.com.mx), gaining hands-on experience in real-world projects.  <br>
+    🎓 Graduated in **Intelligent Systems Engineering** at **UASLP**.  <br>
+    💻 Currently working at [CODGO](https://codgo.com.mx), gaining hands-on experience in real-world projects.  <br>
     🚀 Passionate about technology, software development, and creative problem-solving. <br>
   </samp>
 </p>
@@ -89,7 +89,7 @@
 <samp>
 
 - Improving my React skills.
-- Finishing my Final Proyect of University in React
+- Learning about DevOps mindset
 - Improving my Git and Github skills.
 </samp>
 -------------------------------------------------------------
