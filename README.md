@@ -53,7 +53,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+
+<!-- <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> -->
 
 
 ---
@@ -67,15 +68,17 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+<!-- <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> -->
+<!-- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> -->
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="tRPC" src="https://img.shields.io/badge/trpc-3982CE?style=for-the-badge&logo=trpc&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<!-- <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/> -->
 <img alt=".NET" src="https://img.shields.io/badge/.NET-%231178B9.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
 <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%238C0000.svg?&style=for-the-badge&logo=SQL&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="NuGet" src="https://img.shields.io/badge/NuGet-%230A0A0A.svg?&style=for-the-badge&logo=nuget&logoColor=white"/>
+<!-- <img alt="NuGet" src="https://img.shields.io/badge/NuGet-%230A0A0A.svg?&style=for-the-badge&logo=nuget&logoColor=white"/> -->
 <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 
 ---
