@@ -95,7 +95,7 @@
 - Learning about DevOps mindset
 - Improving my Git and Github skills.
 </samp>
--------------------------------------------------------------
+----------------------------------------------------
 
 ### - Interests...
 <samp>
